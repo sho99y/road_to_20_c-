@@ -58,3 +58,13 @@ C:\Users\prise\Desktop\qwer\interpolyatsia\obj\Debug\interpolyatsia.csproj.Gener
 C:\Users\prise\Desktop\qwer\interpolyatsia\obj\Debug\interpolyatsia.csproj.CoreCompileInputs.cache
 C:\Users\prise\Desktop\qwer\interpolyatsia\obj\Debug\interpolyatsia.exe
 C:\Users\prise\Desktop\qwer\interpolyatsia\obj\Debug\interpolyatsia.pdb
+D:\project\github\road_to_20_c-\interpolyatsia\bin\Debug\interpolyatsia.exe.config
+D:\project\github\road_to_20_c-\interpolyatsia\bin\Debug\interpolyatsia.exe
+D:\project\github\road_to_20_c-\interpolyatsia\bin\Debug\interpolyatsia.pdb
+D:\project\github\road_to_20_c-\interpolyatsia\obj\Debug\interpolyatsia.csprojAssemblyReference.cache
+D:\project\github\road_to_20_c-\interpolyatsia\obj\Debug\interpolyatsia.Form1.resources
+D:\project\github\road_to_20_c-\interpolyatsia\obj\Debug\interpolyatsia.Properties.Resources.resources
+D:\project\github\road_to_20_c-\interpolyatsia\obj\Debug\interpolyatsia.csproj.GenerateResource.cache
+D:\project\github\road_to_20_c-\interpolyatsia\obj\Debug\interpolyatsia.csproj.CoreCompileInputs.cache
+D:\project\github\road_to_20_c-\interpolyatsia\obj\Debug\interpolyatsia.exe
+D:\project\github\road_to_20_c-\interpolyatsia\obj\Debug\interpolyatsia.pdb
